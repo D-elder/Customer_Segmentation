@@ -17,7 +17,10 @@ The Approach
 * Visualize
 
 
+![clustering_bivariate](https://github.com/D-elder/Customer_Segmentation/assets/95525424/9e707870-3bb3-404d-8ac2-793a01ca15b0)
+
+
 # Conclusion after Analysis
 * Target group would be cluster 1 which has a high spending score and high income
 * 60% of cluster 1 shoppers are women. We should look for ways to attract these customers using a marketing campaign targeting popular items in this cluster.
-* Cluster 2 presents an interesting opprtunity to market to the customers for sales event on popular items.
+* Cluster 4 presents an interesting opprtunity to market to the customers for sales event on popular items.
